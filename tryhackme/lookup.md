@@ -206,7 +206,7 @@ We can take a look at think’s home directory:
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:875/1*XPFv6VLC2JEryd8G4s4P2w.png" alt="" height="312" width="700"><figcaption></figcaption></figure>
 
-There is a .passwords file here, which might be interesting, but we don’t have the permission to read it.
+There is a .passwords file here might be interesting, but we don’t have the permission to read it.
 
 ## Shell as think
 
